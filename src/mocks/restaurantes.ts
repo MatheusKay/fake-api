@@ -3,13 +3,14 @@ const mediaPath = 'https://fake-api-tau.vercel.app/efood/'
 const items = [
   {
     id: 1,
+    logo: mediaPath + 'pastaDoRestaurante/' + '/nomeDaImg.png',
+    capa: mediaPath + 'bella_tavola_italiana/' + '/capa.jpeg',
     titulo: "Bella Tavola Italiana",
-    destacado: true,
     tipo: "italiana",
     avaliacao: 4.7,
     descricao:
       "A paixão dos nossos talentosos chefs pela cozinha italiana é evidente em cada prato, desde massas caseiras e risotos cremosos até suculentos frutos do mar e carnes tenras. Nosso menu é complementado por uma excelente carta de vinhos, cuidadosamente selecionados para harmonizar com a riqueza dos sabores italianos.",
-    capa: mediaPath + 'bella_tavola_italiana/' + '/capa.jpeg',
+    destacado: true,
     cardapio: [
       {
         foto: mediaPath + 'bella_tavola_italiana/' + '/1.webp',
@@ -86,13 +87,14 @@ const items = [
 
   {
     id: 2,
+    logo: mediaPath + 'pastaDoRestaurante/' + '/nomeDaImg.png',
+    capa: mediaPath + 'casa_delicias_arabes/' + '/capa.jpeg',
     titulo: "Casa das Delícias Árabes",
-    destacado: false,
     tipo: "árabe",
     avaliacao: 4.8,
     descricao:
       "A Casa das Delícias Árabes é um acolhedor e autêntico restaurante árabe, localizado no coração da cidade, que proporciona uma verdadeira experiência culinária do Oriente Médio. O ambiente é decorado com elementos tradicionais e exóticos, criando uma atmosfera convidativa e confortável.",
-    capa: mediaPath + 'casa_delicias_arabes/' + '/capa.jpeg',
+    destacado: false,
     cardapio: [
       {
         foto: mediaPath + 'casa_delicias_arabes/' + '/1.jpg',
@@ -128,14 +130,15 @@ const items = [
   },
 
   {
+    id: 3,
+    logo: mediaPath + 'pastaDoRestaurante/' + '/nomeDaImg.png',
+    capa: mediaPath + 'sakura_sushi_house/' + '/capa.jpeg',
     titulo: "Sakura Sushi House",
-    destacado: false,
     tipo: "japonês",
     avaliacao: 4.9,
-    id: 3,
     descricao:
       "A Sakura Sushi House é um sofisticado e autêntico restaurante japonês que oferece uma experiência culinária imersiva, transportando os visitantes diretamente para a Terra do Sol Nascente. O ambiente elegante é complementado por um belo jardim japonês, criando uma atmosfera tranquila e serena.",
-    capa: mediaPath + 'sakura_sushi_house/' + '/capa.jpeg',
+    destacado: false,
     cardapio: [
       {
         foto: mediaPath + 'sakura_sushi_house/' + '/1.jpg',
@@ -171,14 +174,15 @@ const items = [
   },
 
   {
+    id: 4,
+    logo: mediaPath + 'pastaDoRestaurante/' + '/nomeDaImg.png',
+    capa: mediaPath + 'cantinho_lusitano/' + '/capa.jpeg',
     titulo: "Cantinho Lusitano",
-    destacado: false,
     tipo: "português",
     avaliacao: 4.8,
-    id: 4,
     descricao:
       "O Cantinho Lusitano é um charmoso e tradicional restaurante português, que celebra a rica herança culinária de Portugal. Neste aconchegante espaço, os visitantes podem desfrutar dos autênticos sabores portugueses, preparados com ingredientes frescos e de alta qualidade, respeitando as receitas clássicas.",
-    capa: mediaPath + 'cantinho_lusitano/' + '/capa.jpeg',
+    destacado: false,
     cardapio: [
       {
         foto: mediaPath + 'cantinho_lusitano/' + '/1.jpeg',
@@ -214,14 +218,15 @@ const items = [
   },
 
   {
+    id: 5,
+    logo: mediaPath + 'pastaDoRestaurante/' + '/nomeDaImg.png',
+    capa: mediaPath + 'piazza/' + '/capa.png',
     titulo: "Piazza del Forno",
-    destacado: false,
     tipo: "pizzaria",
     avaliacao: 4.7,
-    id: 5,
     descricao:
       "A Piazza del Forno é uma pizzaria acolhedora e autêntica que se orgulha de suas raízes italianas. Aqui, você encontrará pizzas artesanais preparadas com ingredientes frescos e assadas em forno a lenha, proporcionando sabores inigualáveis e uma crosta crocante e deliciosa.",
-    capa: mediaPath + 'piazza/' + '/capa.png',
+    destacado: false,
     cardapio: [
       {
         foto: mediaPath + 'piazza/' + '/1.jpg',
@@ -257,14 +262,15 @@ const items = [
   },
 
   {
+    id: 6,
+    logo: mediaPath + 'pastaDoRestaurante/' + '/nomeDaImg.png',
+    capa: mediaPath + 'jardim_terra/' + '/capa.png',
     titulo: "Jardim da Terra",
-    destacado: true,
     tipo: "vegano",
     avaliacao: 4.8,
-    id: 6,
     descricao:
       "O Jardim da Terra é um restaurante vegano que se dedica a oferecer pratos deliciosos e criativos, utilizando apenas ingredientes frescos, orgânicos e sazonais. Nosso cardápio é cuidadosamente elaborado para proporcionar uma experiência culinária única, que celebra a diversidade e a riqueza dos alimentos à base de plantas.",
-    capa: mediaPath + 'jardim_terra/' + '/capa.png',
+    destacado: true,
     cardapio: [
       {
         foto: mediaPath + 'jardim_terra/' + '/1.webp',
