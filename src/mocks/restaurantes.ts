@@ -3,7 +3,7 @@ const mediaPath = 'https://fake-api-tau.vercel.app/efood/'
 const items = [
   {
     id: 1,
-    titulo: "Bella Tavola Italiana",
+    titulo: "CARALHO",
     destacado: true,
     tipo: "italiana",
     avaliacao: 4.7,
