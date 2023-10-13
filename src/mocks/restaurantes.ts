@@ -3,13 +3,13 @@ const mediaPath = 'https://fake-api-tau.vercel.app/efood/'
 const items = [
   {
     id: 1,
-    logo: mediaPath + 'pastaDoRestaurante/' + '/nomeDaImg.png',
-    capa: mediaPath + 'bella_tavola_italiana/' + '/capa.jpeg',
-    titulo: "Bella Tavola Italiana",
-    tipo: "italiana",
-    avaliacao: 4.7,
+    logo: mediaPath + 'delicias_doces_cafe/' + '/doces_cafe.png',
+    capa: mediaPath + 'delicias_doces_cafe/' + '/capa_doces.png',
+    titulo: "Delicias Doces Café",
+    tipo: "Doceria",
+    avaliacao: 4.5,
     descricao:
-      "A paixão dos nossos talentosos chefs pela cozinha italiana é evidente em cada prato, desde massas caseiras e risotos cremosos até suculentos frutos do mar e carnes tenras. Nosso menu é complementado por uma excelente carta de vinhos, cuidadosamente selecionados para harmonizar com a riqueza dos sabores italianos.",
+      "Localizado no coração da cidade, o Delícias Doces Café é um refúgio celestial para os amantes de sobremesas. Este encantador restaurante é especializado em criar experiências culinárias verdadeiramente doces e memoráveis.",
     destacado: true,
     cardapio: [
       {
@@ -87,13 +87,13 @@ const items = [
 
   {
     id: 2,
-    logo: mediaPath + 'pastaDoRestaurante/' + '/nomeDaImg.png',
-    capa: mediaPath + 'casa_delicias_arabes/' + '/capa.jpeg',
-    titulo: "Casa das Delícias Árabes",
-    tipo: "árabe",
-    avaliacao: 4.8,
+    logo: mediaPath + 'sabor_tempero_bistro/' + '/sabor_tempero.png',
+    capa: mediaPath + 'sabor_tempero_bistro/' + '/capa_sabor.png',
+    titulo: "Sabor & Tempero Bistrô",
+    tipo: "Japonês",
+    avaliacao: 4.9,
     descricao:
-      "A Casa das Delícias Árabes é um acolhedor e autêntico restaurante árabe, localizado no coração da cidade, que proporciona uma verdadeira experiência culinária do Oriente Médio. O ambiente é decorado com elementos tradicionais e exóticos, criando uma atmosfera convidativa e confortável.",
+      "O Sabor & Tempero Bistrô é o epítome da elegância culinária em nossa cidade. Este requintado restaurante combina sofisticação e sabor de uma forma que é verdadeiramente única. Com um ambiente encantador e uma decoração que evoca um charme clássico, este bistrô oferece uma experiência gastronômica inesquecível.",
     destacado: false,
     cardapio: [
       {
@@ -131,13 +131,13 @@ const items = [
 
   {
     id: 3,
-    logo: mediaPath + 'pastaDoRestaurante/' + '/nomeDaImg.png',
-    capa: mediaPath + 'sakura_sushi_house/' + '/capa.jpeg',
-    titulo: "Sakura Sushi House",
-    tipo: "japonês",
-    avaliacao: 4.9,
+    logo: mediaPath + 'ristorante_la_trattoria/' + '/ristorante_trattoria.png',
+    capa: mediaPath + 'ristorante_la_trattoria/' + '/capa_trattoria.png',
+    titulo: "Ristorante La Trattoria",
+    tipo: "",
+    avaliacao: 4.8,
     descricao:
-      "A Sakura Sushi House é um sofisticado e autêntico restaurante japonês que oferece uma experiência culinária imersiva, transportando os visitantes diretamente para a Terra do Sol Nascente. O ambiente elegante é complementado por um belo jardim japonês, criando uma atmosfera tranquila e serena.",
+      "O Ristorante La Trattoria é um refúgio gastronômico que oferece uma rica variedade de pratos inspirados em diferentes países. Apesar de não ser muito elegante em termos de decoração, este restaurante é um verdadeiro tesouro para os amantes da comida internacional.",
     destacado: false,
     cardapio: [
       {
@@ -175,9 +175,9 @@ const items = [
 
   {
     id: 4,
-    logo: mediaPath + 'pastaDoRestaurante/' + '/nomeDaImg.png',
-    capa: mediaPath + 'cantinho_lusitano/' + '/capa.jpeg',
-    titulo: "Cantinho Lusitano",
+    logo: mediaPath + 'fogo_brasa_churrascaria/' + '/fogo_brasa.png',
+    capa: mediaPath + 'fogo_brasa_churrascaria/' + '/capa_fogo_brasa.png',
+    titulo: "Fogo & Brasa Churrascaria",
     tipo: "português",
     avaliacao: 4.8,
     descricao:
@@ -219,9 +219,9 @@ const items = [
 
   {
     id: 5,
-    logo: mediaPath + 'pastaDoRestaurante/' + '/nomeDaImg.png',
-    capa: mediaPath + 'piazza/' + '/capa.png',
-    titulo: "Piazza del Forno",
+    logo: mediaPath + 'pizza_vegan/' + '/pizza_vegan.png',
+    capa: mediaPath + 'pizza_vegan/' + '/capa_vegan.png',
+    titulo: "Pizza Vegan",
     tipo: "pizzaria",
     avaliacao: 4.7,
     descricao:
