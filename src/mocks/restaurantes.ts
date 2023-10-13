@@ -13,7 +13,7 @@ const items = [
     destacado: true,
     cardapio: [
       {
-        foto: mediaPath + 'bella_tavola_italiana/' + '/1.webp',
+        foto: mediaPath + 'delicias_doces_cafe/' + '/doces_cafe.png',
         preco: 69.9,
         id: 1,
         nome: "Ravioli al Tartufo Nero",
@@ -222,10 +222,10 @@ const items = [
     logo: mediaPath + 'pizza_vegan/' + '/pizza_vegan.png',
     capa: mediaPath + 'pizza_vegan/' + '/capa_vegan.png',
     titulo: "Pizza Vegan",
-    tipo: "pizzaria",
+    tipo: "pizzaria vegana",
     avaliacao: 4.7,
     descricao:
-      "A Piazza del Forno é uma pizzaria acolhedora e autêntica que se orgulha de suas raízes italianas. Aqui, você encontrará pizzas artesanais preparadas com ingredientes frescos e assadas em forno a lenha, proporcionando sabores inigualáveis e uma crosta crocante e deliciosa.",
+      "A Piazza Vegan é uma pizzaria acolhedora e autêntica que se orgulha de suas raízes italianas. Aqui, você encontrará pizzas artesanais preparadas com ingredientes frescos e assadas em forno a lenha, proporcionando sabores inigualáveis e uma crosta crocante e deliciosa.",
     destacado: false,
     cardapio: [
       {
@@ -263,13 +263,13 @@ const items = [
 
   {
     id: 6,
-    logo: mediaPath + 'pastaDoRestaurante/' + '/nomeDaImg.png',
-    capa: mediaPath + 'jardim_terra/' + '/capa.png',
-    titulo: "Jardim da Terra",
-    tipo: "vegano",
-    avaliacao: 4.8,
+    logo: mediaPath + 'saveurs_bourgogne/' + '/saveurs_bourgogne.png',
+    capa: mediaPath + 'saveurs_bourgogne/' + '/capa_saveurs_bourgogne.png',
+    titulo: "Saveurs de Bourgogne",
+    tipo: "Françês",
+    avaliacao: 4.9,
     descricao:
-      "O Jardim da Terra é um restaurante vegano que se dedica a oferecer pratos deliciosos e criativos, utilizando apenas ingredientes frescos, orgânicos e sazonais. Nosso cardápio é cuidadosamente elaborado para proporcionar uma experiência culinária única, que celebra a diversidade e a riqueza dos alimentos à base de plantas.",
+      "Saveurs de Bourgogne é muito mais do que um restaurante. É um pedaço de Borgonha, uma região famosa por sua rica tradição culinária e vinhos excepcionais, situado no coração de São Paulo. Nossa missão é levar você a uma jornada gastronômica autêntica, onde cada prato é uma celebração dos sabores, aromas e técnicas de cozinha da Borgonha.",
     destacado: true,
     cardapio: [
       {
