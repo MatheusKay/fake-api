@@ -550,7 +550,7 @@ const items = [
     cardapio: [
       {
         id: 1,
-        foto: mediaPath + 'fogo_brasa_churrascaria/' + '/Entrada_1.png',
+        foto: mediaPath + 'pizza_vegan/' + '/Entrada_1.png',
         nome: "Bruschettas de Tomate e Manjericão",
         preco: 69.9,
         descricao:
@@ -560,7 +560,7 @@ const items = [
       },
       {
         id: 2,
-        foto: mediaPath + 'fogo_brasa_churrascaria/' + '/Entrada_2.png',
+        foto: mediaPath + 'pizza_vegan/' + '/Entrada_2.png',
         nome: "Rolinhos de Abobrinha com Creme de Tofu",
         preco: 69.9,
         descricao:
@@ -570,7 +570,7 @@ const items = [
       },
       {
         id: 3,
-        foto: mediaPath + 'fogo_brasa_churrascaria/' + '/Entrada_3.png',
+        foto: mediaPath + 'pizza_vegan/' + '/Entrada_3.png',
         nome: "Caponata de Berinjela",
         preco: 69.9,
         descricao:
@@ -580,7 +580,7 @@ const items = [
       },
       {
         id: 4,
-        foto: mediaPath + 'fogo_brasa_churrascaria/' + '/Entrada_4.png',
+        foto: mediaPath + 'pizza_vegan/' + '/Entrada_4.png',
         nome: "Batatas Bravas Veganas",
         preco: 69.9,
         descricao:
@@ -590,7 +590,7 @@ const items = [
       },
       {
         id: 5,
-        foto: mediaPath + 'fogo_brasa_churrascaria/' + '/Principal_1.png',
+        foto: mediaPath + 'pizza_vegan/' + '/Principal_1.png',
         nome: "Pizza Vegana de Margherita",
         preco: 69.9,
         descricao:
@@ -600,7 +600,7 @@ const items = [
       },
       {
         id: 6,
-        foto: mediaPath + 'fogo_brasa_churrascaria/' + '/Principal_2.png',
+        foto: mediaPath + 'pizza_vegan/' + '/Principal_2.png',
         nome: "Lasanha de Legumes e Molho Bechamel Veganos",
         preco: 69.9,
         descricao:
@@ -610,7 +610,7 @@ const items = [
       },
       {
         id: 7,
-        foto: mediaPath + 'fogo_brasa_churrascaria/' + '/Principal_3.png',
+        foto: mediaPath + 'pizza_vegan/' + '/Principal_3.png',
         nome: "Risoto de Cogumelos",
         preco: 69.9,
         descricao:
@@ -620,7 +620,7 @@ const items = [
       },
       {
         id: 8,
-        foto: mediaPath + 'fogo_brasa_churrascaria/' + '/Principal_4.png',
+        foto: mediaPath + 'pizza_vegan/' + '/Principal_4.png',
         nome: "Massa ao Pesto de Manjericão e Pinhão",
         preco: 69.9,
         descricao:
@@ -630,7 +630,7 @@ const items = [
       },
       {
         id: 9,
-        foto: mediaPath + 'fogo_brasa_churrascaria/' + '/Sobremesa_1.png',
+        foto: mediaPath + 'pizza_vegan/' + '/Sobremesa_1.png',
         nome: "Brownie Vegano de Chocolate",
         preco: 69.9,
         descricao:
@@ -640,7 +640,7 @@ const items = [
       },
       {
         id: 10,
-        foto: mediaPath + 'fogo_brasa_churrascaria/' + '/Sobremesa_2.png',
+        foto: mediaPath + 'pizza_vegan/' + '/Sobremesa_2.png',
         nome: "Sorbet de Frutas Tropicais",
         preco: 69.9,
         descricao:
@@ -650,7 +650,7 @@ const items = [
       },
       {
         id: 11,
-        foto: mediaPath + 'fogo_brasa_churrascaria/' + '/Sobremesa_3.png',
+        foto: mediaPath + 'pizza_vegan/' + '/Sobremesa_3.png',
         nome: "Torta de Limão Vegana",
         preco: 69.9,
         descricao:
@@ -660,7 +660,7 @@ const items = [
       },
       {
         id: 12,
-        foto: mediaPath + 'fogo_brasa_churrascaria/' + '/Sobremesa_4.png',
+        foto: mediaPath + 'pizza_vegan/' + '/Sobremesa_4.png',
         nome: "Panna Cotta de Coco com Calda de Frutas Vermelhas",
         preco: 69.9,
         descricao:
@@ -684,7 +684,7 @@ const items = [
     cardapio: [
       {
         id: 1,
-        foto: mediaPath + 'fogo_brasa_churrascaria/' + '/Entrada_1.png',
+        foto: mediaPath + 'saveurs_bourgogne/' + '/Entrada_1.png',
         nome: "Sopa de Cebola Gratinada",
         preco: 69.9,
         descricao:
@@ -694,7 +694,7 @@ const items = [
       },
       {
         id: 2,
-        foto: mediaPath + 'fogo_brasa_churrascaria/' + '/Entrada_2.png',
+        foto: mediaPath + 'saveurs_bourgogne/' + '/Entrada_2.png',
         nome: "Tartare de Salmão com Caviar",
         preco: 69.9,
         descricao:
@@ -704,7 +704,7 @@ const items = [
       },
       {
         id: 3,
-        foto: mediaPath + 'fogo_brasa_churrascaria/' + '/Entrada_3.png',
+        foto: mediaPath + 'saveurs_bourgogne/' + '/Entrada_3.png',
         nome: "Foie Gras com Geléia de Vinho Tinto",
         preco: 69.9,
         descricao:
@@ -714,7 +714,7 @@ const items = [
       },
       {
         id: 4,
-        foto: mediaPath + 'fogo_brasa_churrascaria/' + '/Entrada_4.png',
+        foto: mediaPath + 'saveurs_bourgogne/' + '/Entrada_4.png',
         nome: "Salada de Endívias e Peras com Molho de Vinho Tinto",
         preco: 69.9,
         descricao:
@@ -724,7 +724,7 @@ const items = [
       },
       {
         id: 5,
-        foto: mediaPath + 'fogo_brasa_churrascaria/' + '/Principal_1.png',
+        foto: mediaPath + 'saveurs_bourgogne/' + '/Principal_1.png',
         nome: "Coq au Vin",
         preco: 69.9,
         descricao:
@@ -734,7 +734,7 @@ const items = [
       },
       {
         id: 6,
-        foto: mediaPath + 'fogo_brasa_churrascaria/' + '/Principal_2.png',
+        foto: mediaPath + 'saveurs_bourgogne/' + '/Principal_2.png',
         nome: "Boeuf Bourguignon",
         preco: 69.9,
         descricao:
@@ -744,7 +744,7 @@ const items = [
       },
       {
         id: 7,
-        foto: mediaPath + 'fogo_brasa_churrascaria/' + '/Principal_3.png',
+        foto: mediaPath + 'saveurs_bourgogne/' + '/Principal_3.png',
         nome: "Truta com Amêndoas e Vinho Branco",
         preco: 69.9,
         descricao:
@@ -754,7 +754,7 @@ const items = [
       },
       {
         id: 8,
-        foto: mediaPath + 'fogo_brasa_churrascaria/' + '/Principal_4.png',
+        foto: mediaPath + 'saveurs_bourgogne/' + '/Principal_4.png',
         nome: "Ratatouille com Tofu Assado",
         preco: 69.9,
         descricao:
@@ -764,7 +764,7 @@ const items = [
       },
       {
         id: 9,
-        foto: mediaPath + 'fogo_brasa_churrascaria/' + '/Sobremesa_1.png',
+        foto: mediaPath + 'saveurs_bourgogne/' + '/Sobremesa_1.png',
         nome: "Crème Brûlée de Vinho Tinto",
         preco: 69.9,
         descricao:
@@ -774,7 +774,7 @@ const items = [
       },
       {
         id: 10,
-        foto: mediaPath + 'fogo_brasa_churrascaria/' + '/Sobremesa_2.png',
+        foto: mediaPath + 'saveurs_bourgogne/' + '/Sobremesa_2.png',
         nome: "Tarte Tatin de Maçã com Sorvete de Vinho",
         preco: 69.9,
         descricao:
@@ -784,7 +784,7 @@ const items = [
       },
       {
         id: 11,
-        foto: mediaPath + 'fogo_brasa_churrascaria/' + '/Sobremesa_3.png',
+        foto: mediaPath + 'saveurs_bourgogne/' + '/Sobremesa_3.png',
         nome: "Mousse de Chocolate com Calda de Vinho do Porto",
         preco: 69.9,
         descricao:
@@ -794,7 +794,7 @@ const items = [
       },
       {
         id: 12,
-        foto: mediaPath + 'fogo_brasa_churrascaria/' + '/Sobremesa_4.png',
+        foto: mediaPath + 'saveurs_bourgogne/' + '/Sobremesa_4.png',
         nome: "Queijo Roquefort com Figos em Calda de Vinho Tinto",
         preco: 69.9,
         descricao:
